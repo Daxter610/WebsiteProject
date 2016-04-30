@@ -1,0 +1,217 @@
+﻿body {
+    background-image: url('images/bg.jpg');
+    background-attachment: fixed;
+    height: 1151px;
+}
+
+b{
+    padding-left:180px;
+}
+
+b1{
+    padding-left:10px;
+}
+
+c {
+    font-size:50px;
+    font-style:oblique;
+}
+
+d {
+    font-size:30px;
+    font-style:oblique;
+}
+
+e {
+    margin-left:5px;
+}
+
+f{
+    font-size:25px;
+    font-style:oblique;
+}
+
+g{
+    float:right;
+    padding-top:130px;
+    margin-right:5px;
+}
+
+h{
+    position:absolute;
+    top:0.1em;
+    left:0px;
+    width:300px;
+    padding:4px;
+    background-color:white;
+    opacity:0.6;
+    font-weight:bold;
+    font-size:40px;
+}
+
+i{
+    position: absolute;
+    bottom: 40px; 
+    left: 0.5em; 
+    width: 400px; 
+    font-weight: bold; 
+    color:black; 
+    font-size:25px;
+}
+
+i1{
+    position: absolute;
+    top: 5px; 
+    right: 0.5em; 
+    width: 350px; 
+    font-weight: bold; 
+    color:black; 
+    font-size:20px;
+
+}
+
+i3{
+    position: absolute;
+    font-size:20px;
+    top: 5px; 
+    right: 0.5em; 
+}
+
+j{
+    font-style:oblique;
+    font-size:40px;
+    margin-left:415px;
+}
+
+k{
+    font-style:oblique;
+    font-size:40px;
+    margin-left:290px;
+}
+
+k1{
+    font-style:oblique;
+    font-size:40px;
+    margin-left:210px;
+}
+
+l{
+    padding-top:100px;
+}
+
+
+#wrapperaboutus{
+    position: relative; 
+    background: url(http://localhost:51795/images/aboutus.jpg); 
+    width: 930px; 
+    height: 500px; 
+    margin-left:180px; 
+    border:ridge;
+}
+
+#gallerywrapper{
+    width: 930px; 
+    height: 3400px; 
+    margin-left:180px; 
+    background-color:floralwhite;
+}
+
+#productwrapper{
+    width: 930px; 
+    height: 1000px; 
+    background-color:floralwhite;
+    margin-left:180px;
+}
+
+#bsav{
+
+    width: 930px; 
+    height: 1000px; 
+    background-color:white;
+    margin-left:180px;
+}
+
+
+
+        #space {
+            padding-top:30px;
+        }
+        #wrapper {
+            background-color:floralwhite;
+            height: 50px;
+            padding-bottom:5px;
+        }
+        #wrapper1 {
+            margin-left:180px;
+            
+            width: 555px;
+            height: 130px;
+            
+        }
+
+        #space1 {
+            padding-top:190px;
+        }
+
+        #space2 {
+            padding-top:50px;
+        }
+
+        #wrapper2{
+            clear:both;
+        }
+
+        #panel1 {
+            width: 290px;
+            height: 550px;
+            float: left;
+            margin-left: 180px;
+            background-color: floralwhite;
+        }
+
+        #panel2 {
+            width: 290px;
+            height: 550px;
+            background-color: floralwhite;
+            float:left;
+            margin-left:30px;
+            
+        }
+
+        #panel3 {
+            width:290px;
+            height: 550px;
+            background-color:floralwhite;
+            float:left;
+            margin-left:30px;
+        }
+
+
+        #tbox{
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+        }
+
+#contactus {
+    position: relative;
+    width: 930px;
+    height: 500px;
+    margin-left: 180px;
+    border: ridge;
+    background-color:floralwhite;
+}
+
+#table{
+    position: absolute;
+    top: 70px;
+    right: 4em; 
+    width: 350px; 
+}
+
+#googleMap{
+    height:500px;
+    width:545px;
+}
+
